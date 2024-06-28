@@ -12,6 +12,7 @@ You will need API Keyys for
 - PineCone
 - YouTube
 
+```
 usage: process_channel.py [-h] [--channel_id CHANNEL_ID] [--user_id USER_ID] --out_dir OUT_DIR --index_name INDEX_NAME [--count COUNT]
 
 Process YouTube videos.
@@ -25,4 +26,4 @@ options:
   --index_name INDEX_NAME
                         Pinecone index name
   --count COUNT         Number of videos to process
-
+```

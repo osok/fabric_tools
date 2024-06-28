@@ -38,3 +38,6 @@ https://youtu.be/F62II9QxH8M,Gemini in Reasoning: Unveiling Commonsense in Multi
 https://youtu.be/RjiQK3BUqQA,Patchscopes: A Unifying Framework for Inspecting Hidden Representations of Language Models
 https://youtu.be/44OukEJyRsU,LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders
 https://youtu.be/9SgBPfU_J3I,Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone
+https://youtu.be/oqrxjT1H0yE,[QA] AGILE: A Novel Framework of LLM Agents
+https://youtu.be/P1KUxaiDpF0,The Platonic Representation Hypothesis
+https://youtu.be/V7ykDJo_-s8,Task Contamination: Language Models May Not Be Few-Shot Anymore
