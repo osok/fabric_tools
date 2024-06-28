@@ -1,0 +1,40 @@
+https://youtu.be/qbAtqnu1BHo,AutoDev: Automated AI-Driven Development
+https://youtu.be/pdIplBkAAHo,LLM-Rec: Personalized Recommendation via Prompting Large Language Models
+https://youtu.be/pptxCeu88V4,The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits
+https://youtu.be/aiNGuamw8pM,SELF-DISCOVER: Large Language Models Self-Compose Reasoning Structures
+https://youtu.be/Z8VUhK1OGfk,From Google Gemini to OpenAI Q*: A Survey of Reshaping the Generative AI Research Landscape
+https://youtu.be/SO9khpfgjxE,Transcendence: Generative Models Can Outperform The Experts That Train Them
+https://youtu.be/de-1Tz6MTbA,How FaR Are Large Language Models From Agents with Theory-of-Mind?
+https://youtu.be/0DePWYaFs3I,Not All Language Model Features Are Linear
+https://youtu.be/0K8Oek0HjHM,In Search of Needles in a 10M Haystack: Recurrent Memory Finds What LLMs Miss
+https://youtu.be/cOaEdh8L41M,A Simple and Effective Pruning Approach for Large Language Models
+https://youtu.be/Tjx_kd5db34,Mixture-of-Agents Enhances Large Language Model Capabilities
+https://youtu.be/8yd0e1Ys7Ak,LLM Augmented LLMs: Expanding Capabilities through Composition
+https://youtu.be/YEkDhAs5iuU,Self-Rewarding Language Models
+https://youtu.be/qYcLhPnPezU,Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to the Edge of Generalization
+https://youtu.be/OnZKWKsOc8k,Your Transformer is Secretly Linear
+https://youtu.be/RG3DlseOw6A,Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation
+https://youtu.be/WVUl--dymB8,Textbooks Are All You Need
+https://youtu.be/aPE29vijcXU,Neural Network Diffusion
+https://youtu.be/F-OQ9bQp3jk,AGILE: A Novel Framework of LLM Agents
+https://youtu.be/VZq6qhLHCQA,TryOnDiffusion: A Tale of Two UNets
+https://youtu.be/xcBaEHIYZto,VMamba: Visual State Space Model
+https://youtu.be/fxMI46nRQ88,SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression
+https://youtu.be/3w-U6ij3fBA,Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention
+https://youtu.be/xbR4_R63sxg,Augmenting Language Models with Long-Term Memory
+https://youtu.be/oVG97wBswAQ,[QA] DeepSeek-Prover: Advancing Theorem Proving in LLMs through Large-Scale Synthetic Data
+https://youtu.be/57hsIe0_0Yc,Deconstructing Denoising Diffusion Models for Self-Supervised Learning
+https://youtu.be/i4GQVjgbGBU,[QA] Your Transformer is Secretly Linear
+https://youtu.be/-ZgwAUoEQqE,LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning
+https://youtu.be/04WK7cQ_dx8,Full Parameter Fine-tuning for Large Language Models with Limited Resources
+https://youtu.be/R0-__9obyKI,One-for-All: Generalized LoRA for Parameter-Efficient Fine-tuning
+https://youtu.be/SvTZOIxc6JQ,MotionGPT: Human Motion as a Foreign Language
+https://youtu.be/KH4Q7T0yxmA,An Interactive Agent Foundation Model
+https://youtu.be/z6IbCRhW-Vc,LongRoPE: Extending LLM Context Window Beyond 2 Million Tokens
+https://youtu.be/rwzNkfEZ61s,Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking
+https://youtu.be/goVq3gRvTA4,LLM Agent Operating System
+https://youtu.be/5vyq8h0UYak,Teaching Large Language Models to Reason with Reinforcement Learning
+https://youtu.be/F62II9QxH8M,Gemini in Reasoning: Unveiling Commonsense in Multimodal Large Language Models
+https://youtu.be/RjiQK3BUqQA,Patchscopes: A Unifying Framework for Inspecting Hidden Representations of Language Models
+https://youtu.be/44OukEJyRsU,LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders
+https://youtu.be/9SgBPfU_J3I,Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone
