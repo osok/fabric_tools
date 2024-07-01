@@ -6,6 +6,7 @@ import re
 import numpy as np
 from openai import OpenAI, OpenAIError
 from pinecone import Pinecone, ServerlessSpec
+import time
 
 # Retrieve API keys from environment variables
 pinecone_api_key = os.getenv('PINECONE_API_KEY')
@@ -149,7 +150,7 @@ def main(api_key, channel_id, user_id, output_path, index_name, video_limit):
         if response.status_code == 403:
             error_message = response.json().get('error', {}).get('message', 'Quota exceeded or access denied')
             print(f"Error: {error_message}")
-            return
+            return True  # Return True to indicate a rate limit error
 
         data = response.json()
         
@@ -218,6 +219,7 @@ def main(api_key, channel_id, user_id, output_path, index_name, video_limit):
             break
 
     print(f"Processed {processed_count} videos.")
+    return False  # Return False to indicate no rate limit error
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Process YouTube videos.')
@@ -237,5 +239,16 @@ if __name__ == '__main__':
     if not api_key:
         raise ValueError("The environment variable YOUTUBE_API_KEY is not set")
 
-    main(api_key, args.channel_id, args.user_id, args.out_dir, args.index_name, args.count)
+    rate_limit_reached = False
+    
+    while not rate_limit_reached:
+        try:
+            rate_limit_reached = main(api_key, args.channel_id, args.user_id, args.out_dir, args.index_name, args.count)
+            if rate_limit_reached:
+                print("API rate limit reached. Stopping the application.")
+                break
+        except Exception as e:
+            print(f"An error occurred: {e}")
+            print("Restarting the application in 10 seconds...")
+            time.sleep(10)
 

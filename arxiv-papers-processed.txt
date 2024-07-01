@@ -41,3 +41,623 @@ https://youtu.be/9SgBPfU_J3I,Phi-3 Technical Report: A Highly Capable Language M
 https://youtu.be/oqrxjT1H0yE,[QA] AGILE: A Novel Framework of LLM Agents
 https://youtu.be/P1KUxaiDpF0,The Platonic Representation Hypothesis
 https://youtu.be/V7ykDJo_-s8,Task Contamination: Language Models May Not Be Few-Shot Anymore
+https://youtu.be/8_060Tql5dU,SnapKV: LLM Knows What You are Looking for Before Generation
+https://youtu.be/scKRPsi898A,[QA] Poser: Unmasking Alignment Faking LLMs by Manipulating Their Internals
+https://youtu.be/e-X-cpHUVFU,[QA] The Platonic Representation Hypothesis
+https://youtu.be/-cMcMYNyRPA,The Impact of Reasoning Step Length on Large Language Models
+https://youtu.be/RZ6MRkqpN5Y,Tuning Language Models by Proxy
+https://youtu.be/5UnyUEK3Znk,[short] Blending Is All You Need: Cheaper, Better Alternative to Trillion-Parameters LLM
+https://youtu.be/aCJQy3CDohE,[QA] Better &amp; Faster Large Language Models via Multi-token Prediction
+https://youtu.be/FRy7eLuosic,Transformers are Multi-State RNNs
+https://youtu.be/RZQcDGnDdsc,[QA] Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone
+https://youtu.be/ODnGkO6HftM,Demystifying GPT Self-Repair for Code Generation
+https://youtu.be/YsUQGzcM5e4,GPT-4V(ision) is a Generalist Web Agent, if Grounded
+https://youtu.be/8TN66lecayU,Is Flash Attention Stable?
+https://youtu.be/538uaE-AACs,Chain-of-Thought Reasoning Without Prompting
+https://youtu.be/aO1XvwGT8go,OpenELM: An Efficient Language Model Family with Open-source Training and Inference Framework
+https://youtu.be/LGhjYqvbG-U,LLAMA PRO: Progressive LLaMA with Block Expansion
+https://youtu.be/vwgKuyWJsUE,Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models
+https://youtu.be/-l6Y06VmtCU,VideoMamba: State Space Model for Efficient Video Understanding
+https://youtu.be/dwT-aodwe4w,Restart Sampling for Improving Generative Processes
+https://youtu.be/rpOoXe4DFwY,Can AI Be as Creative as Humans?
+https://youtu.be/G3nvOamdaDE,TinyLlama: An Open-Source Small Language Model
+https://youtu.be/rPQIYLvPszY,Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models
+https://youtu.be/EI1SCKwXIEs,Compression Represents Intelligence Linearly
+https://youtu.be/s8-HWV5UtK4,Contextual Position Encoding: Learning to Count What&#39;s Important
+https://youtu.be/p7nJ8-zf2vE,Better &amp; Faster Large Language Models via Multi-token Prediction
+https://youtu.be/MOcJTsACUhA,Can Large Language Models Infer Causation from Correlation?
+https://youtu.be/oj1wed5ItdI,Synthetic Data (Almost) from Scratch: Generalized Instruction Tuning for Language Models
+https://youtu.be/GKUfvF0rRfE,Massive Activations in Large Language Models
+https://youtu.be/wJie4RpU748,Diffusion with Forward Models: Solving Stochastic Inverse Problems Without Direct Supervision
+https://youtu.be/y5QC5btmtWQ,Infini-gram: Scaling Unbounded n-gram Language Models to a Trillion Tokens
+https://youtu.be/Pala9QKPS4s,Alignment Studio: Aligning Large Language Models to Particular Contextual Regulations
+https://youtu.be/Bj-zgIKatSk,Beyond A*: Better Planning with Transformers via Search Dynamics Bootstrapping
+https://youtu.be/KkDk5ifYml8,ChatDB: Augmenting LLMs with Databases as Their Symbolic Memory
+https://youtu.be/JlRhytfQlUg,To Believe or Not to Believe Your LLM
+https://youtu.be/NKm1RrDD93Y,[QA] Mixture-of-Agents Enhances Large Language Model Capabilities
+https://youtu.be/q7jkv_hna9M,[QA] Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models
+https://youtu.be/W5lzj1DObSY,Transformer FAM: Feedback attention is working memory
+https://youtu.be/5Qrp0AvLwL4,Evolutionary Optimization of Model Merging Recipes
+https://youtu.be/oNFp_PMPh3s,Octopus v2: On-device language model for super agent
+https://youtu.be/BSY4SqlVtZE,Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models
+https://youtu.be/JUA-EekRVpE,G-LLaVA : Solving Geometric Problem with Multi-Modal Large Language Model
+https://youtu.be/8y32u476afU,Instruct-Imagen: Image Generation with Multi-modal Instruction
+https://youtu.be/buryj-auHkU,Make Your LLM Fully Utilize the Context
+https://youtu.be/56ppVmVaoxY,StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Generation
+https://youtu.be/Pufx6NbOwpw,[QA] Is ChatGPT Transforming Academics&#39; Writing Style?
+https://youtu.be/4XM0XwcQhLY,No “Zero-Shot” Without Exponential Data
+https://youtu.be/kCBHrtNNGis,Llama Guard: LLM-based Input-Output Safeguard for Human-AI Conversations
+https://youtu.be/Xp8YjkwEaOY,The boundary of neural network trainability is fractal
+https://youtu.be/63Re0tJntbM,Jamba: A Hybrid Transformer-Mamba Language Model
+https://youtu.be/RWw2muxKFDQ,ReFT: Representation Finetuning for Language Models
+https://youtu.be/p-JqQHG-m9I,Observational Scaling Laws and the Predictability of Language Model Performance
+https://youtu.be/Fy2V6ZmXK0s,Alice in Wonderland: Simple Tasks Showing Complete Reasoning Breakdown in State-Of-the-Art LLMs
+https://youtu.be/P-RHhkPtIGE,Large Language Models Must Be Taught to Know What They Don&#39;t Know
+https://youtu.be/xtApK0sjJCk,Back to Basics: Revisiting REINFORCE Style Optimization for Learning from Human Feedback in LLMs
+https://youtu.be/SjoDedSyZKQ,Initializing Models with Larger Ones
+https://youtu.be/KY_D7THjSyg,EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty
+https://youtu.be/U6B6ms3PtKg,OmniPred: Language Models as Universal Regressors
+https://youtu.be/vsVc5N1hl48,LoRA Learns Less and Forgets Less
+https://youtu.be/blYpzQdzWlU,Semantic Entropy Probes: Robust and Cheap Hallucination Detection in LLMs
+https://youtu.be/SacNYoCcbHE,SequenceMatch: Imitation Learning for Autoregressive Sequence Modeling with Backtracking
+https://youtu.be/L91twPrb8Kc,Dataset Distillation in Large Data Era
+https://youtu.be/4pyptPjLy20,Bad Students Make Great Teachers: Active Learning Accelerates Large-Scale Visual Understanding
+https://youtu.be/uiepKg1_OoI,Chameleon: Mixed-Modal Early-Fusion Foundation Models
+https://youtu.be/sWDOk3sue34,[short] The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits
+https://youtu.be/4LGXF7LHl9U,[QA] Grokked Transformers are Implicit Reasoners: A Journey to the Edge of Generalization
+https://youtu.be/dVIRRlI7tv4,REFT: Reasoning with REinforced Fine-Tuning
+https://youtu.be/sY8mBFwp-dw,Understanding When and Why Transformers Generalize Hierarchically
+https://youtu.be/PO-I6LLu7Qo,Toward Self-Improvement of LLMs via Imagination, Searching, and Criticizing
+https://youtu.be/eU1srnMr0_I,On the Reliability of Watermarks for Large Language Models
+https://youtu.be/a4TohH1q1K8,Contrastive Preference Optimization: Pushing the Boundaries of LLM Performance in Translation
+https://youtu.be/utfJoJVtglo,[short] MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue ReSolution
+https://youtu.be/oTrnSM2SKLQ,[QA] Beyond Scaling Laws: Understanding Transformer Performance with Associative Memory
+https://youtu.be/knSvKGq8sTQ,Beyond Scaling Laws: Understanding Transformer Performance with Associative Memory
+https://youtu.be/6CaicKY0pfA,[short] The Impact of Reasoning Step Length on Large Language Models
+https://youtu.be/LjJiRtkP3js,Memory Mosaics
+https://youtu.be/DGaMI-vRCy0,InstructZero: Efficient Instruction Optimization for Black-Box Large Language Models
+https://youtu.be/eoOkMdrCkEY,In-Context Learning with Long-Context Models: An In-Depth Exploration
+https://youtu.be/Io0fek8fJbo,Harmonic LLMs are Trustworthy
+https://youtu.be/O62oSJYJu0I,[QA] Understanding LLMs Requires More Than Statistical Generalization
+https://youtu.be/j-GjHhAlcZY,[QA] Thermodynamic Natural Gradient Descent
+https://youtu.be/-YZ-YZ05VXU,Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study
+https://youtu.be/FwYsgUT5zV4,Fast Segment Anything
+https://youtu.be/VCyxXkX5zvs,Video as the New Language for Real-World Decision Making
+https://youtu.be/MJJajb78q_4,LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error
+https://youtu.be/2BN7qrAe0Nc,RHO-1: Not All Tokens Are What You Need
+https://youtu.be/qQMJ1mAnvJA,Brainformers: Trading Simplicity for Efficiency
+https://youtu.be/JLJMOEArdeU,Fast High-Resolution Image Synthesis with Latent Adversarial Diffusion Distillation
+https://youtu.be/AIR9QduDqD8,Let’s Think Dot by Dot: Hidden Computation in Transformer Language Models
+https://youtu.be/bqnszWcl_v8,Understanding LLMs Requires More Than Statistical Generalization
+https://youtu.be/KLBlmXtots0,Yi: Open Foundation Models by 01.AI
+https://youtu.be/P0O78l-TO2Y,Are Long-LLMs A Necessity For Long-Context Tasks?
+https://youtu.be/5qA7cgDkY3c,Gecko: Versatile Text Embeddings Distilled from Large Language Models
+https://youtu.be/bcP3c6ZRmwA,Reducing Transformer Key-Value Cache Size with Cross-Layer Attention
+https://youtu.be/_Uc8ltjaWmQ,The ART of LLM Refinement: Ask, Refine, and Trust
+https://youtu.be/rhEy9VUGgug,Monitoring AI-Modified Content at Scale
+https://youtu.be/urWsTBAVPQc,Same Task, More Tokens: the Impact of Input on the Reasoning Performance of Large Language Models
+https://youtu.be/cxVqnLB-au4,From R to Q: Your Language Model is Secretly a Q-Function
+https://youtu.be/srDVNbxPgZI,Large Language Models as Tool Makers
+https://youtu.be/s8VnOWnpYew,Chain of Code: Reasoning with a Language Model-Augmented Code Emulator
+https://youtu.be/STUPtDIyDGg,Controlling Text-to-Image Diffusion by Orthogonal Finetuning
+https://youtu.be/1cFWf6uE2PY,[QA] To Believe or Not to Believe Your LLM
+https://youtu.be/ij_kfJumDqA,Learning and Leveraging World Models in Visual Representation Learning
+https://youtu.be/S6bJ9ES27I4,[QA] Let’s Think Dot by Dot: Hidden Computation in Transformer Language Models
+https://youtu.be/43_2dlJ8C6Y,Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs
+https://youtu.be/lGr5IRzQ4sU,Stacking as Accelerated Gradient Descent
+https://youtu.be/dn332ytclA4,MoRA: High-Rank Updating for Parameter-Efficient Fine-Tuning
+https://youtu.be/uWxlecoe1do,Long-range Language Modeling with Self-retrieval
+https://youtu.be/37CAJlqWgak,Global Optimization: A Machine Learning Approach
+https://youtu.be/dpeGHIklOW8,Large Language Models are Superpositions of All Characters: Attaining Role-play via Self-Alignment
+https://youtu.be/TO1GD7gBvGw,[QA] Alice in Wonderland: Simple Tasks Showing Complete Reasoning Breakdown in State-Of-the-Art LLMs
+https://youtu.be/uoePkSlVNQw,Large Language Models are Interpretable Learners
+https://youtu.be/av-rRSgdjOk,From Pixels to UI Actions: Learning to Follow Instructions via Graphical User Interfaces
+https://youtu.be/sfe6RcdlUTU,Approaching Human-Level Forecasting with Language Models
+https://youtu.be/yUVMW5erlJQ,Logits of API-Protected LLMs Leak Proprietary Information
+https://youtu.be/MkOvRqVF2J8,Mixtures of Experts Unlock Parameter Scaling for Deep RL
+https://youtu.be/2vzY5xrlFk8,Training Transformers with 4-bit Integers
+https://youtu.be/pP6q31MXlko,Efficient Exploration for LLMs
+https://youtu.be/jL9vIeBRC38,[short] An Interactive Agent Foundation Model
+https://youtu.be/ueMqCplHFto,[short] MM1: Methods, Analysis &amp; Insights from Multimodal LLM Pre-training
+https://youtu.be/N2gs2FAYMY4,[QA] Self-playing Adversarial Language Game Enhances LLM Reasoning
+https://youtu.be/KV8B-sD7T0o,Achieving 97% on GSM8K: Deeply Understanding the Problems Makes LLMs Perfect Reasoners
+https://youtu.be/J4CbRAOE9no,Large Language Models Can Self-Improve At Web Agent Tasks
+https://youtu.be/eUOb3iS4nOM,Attention as a Hypernetwork
+https://youtu.be/e1bI2xuMB5A,[QA] Talking Nonsense: Probing Large Language Models&#39; Understanding ofAdversarial Gibberish Inputs
+https://youtu.be/vN12YnxOi5w,Zero-Shot Tokenizer Transfer
+https://youtu.be/epVxMc-tdfs,[QA] LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding
+https://youtu.be/cAzWnlaSX90,SUTRA: Scalable Multilingual Language Model Architecture
+https://youtu.be/lGcN9agr6c8,Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?
+https://youtu.be/k_eIJnr87sI,LLAMAFACTORY: Unified Efficient Fine-Tuning of 100+ Language Models
+https://youtu.be/uSeAZd_gnus,Best Practices and Lessons Learned on Synthetic Data for Language Models
+https://youtu.be/F7x-TlLljJM,LIMA: Less Is More for Alignment
+https://youtu.be/Zva_CUFvQJc,Self-Play Preference Optimization for Language Model Alignment
+https://youtu.be/JJAUFeq8rIQ,[QA] Chameleon: Mixed-Modal Early-Fusion Foundation Models
+https://youtu.be/u_UwTfBsPC4,Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference
+https://youtu.be/6WbvUMqnlYY,Retrieval Head Mechanistically Explains Long-Context Factuality
+https://youtu.be/9gaQyUYFDCk,[QA] From R to Q: Your Language Model is Secretly a Q-Function
+https://youtu.be/oCgPh5DljZw,Multistep Consistency Models
+https://youtu.be/87dLpFAnmGo,Are aligned neural networks adversarially aligned?
+https://youtu.be/Uo7ztHagqUY,Video-LLaMAA Instruction-tuned Audio-Visual Language Model for Video Understanding
+https://youtu.be/tuhGpXA2bO0,[QA] Gecko: Versatile Text Embeddings Distilled from Large Language Models
+https://youtu.be/dsVSmfzh9TY,Rephrasing the Web: A Recipe for Compute and Data-Efficient Language Modeling
+https://youtu.be/IjqHQcbnaxk,Greed is All You Need: An Evaluation of Tokenizer Inference Methods
+https://youtu.be/NyxZGVrgBdU,Simple linear attention language models balance the recall-throughput tradeoff
+https://youtu.be/RJTWrPNCam0,[short] VMamba: Visual State Space Model
+https://youtu.be/9H__JJMicK8,Advantage Alignment Algorithms
+https://youtu.be/CHXp-jUhCzo,[short] Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention
+https://youtu.be/_5Tj_wUhbTI,AlphaMath Almost Zero: process Supervision without process
+https://youtu.be/-R0vVt1bv4E,[QA] From LLMs to Actions: Latent Codes as Bridges in Hierarchical Robot Control
+https://youtu.be/WbfVI7Hu9Ls,SAMBA: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling
+https://youtu.be/lrUdOdBMQsQ,[QA] Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models
+https://youtu.be/1p9HoSBDo2k,DPO Meets PPO: Reinforced Token Optimization for RLHF
+https://youtu.be/cIFwlXuvHRY,From GPT-4 to Gemini and Beyond
+https://youtu.be/BLBCqZBQE6c,Yell At Your Robot Improving On-the-Fly from Language Corrections
+https://youtu.be/ZLc22F5SXJw,Capabilities of Gemini Models in Medicine
+https://youtu.be/Cn-bxnHmXHs,H2O-Danube-1.8B Technical Report
+https://youtu.be/KhCFZePyk5Q,[QA] Jamba: A Hybrid Transformer-Mamba Language Model
+https://youtu.be/VE3YL66i7GM,Transformers Can Do Arithmetic with the Right Embeddings
+https://youtu.be/MjW3L4Vmf0o,[QA] LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders
+https://youtu.be/FZvebhn1FG0,[QA] LoRA Learns Less and Forgets Less
+https://youtu.be/F1BxODthaBM,Watermarking Makes Language Models Radioactive
+https://youtu.be/9Dba4p3nDiw,[short] DREAM-Talk: Diffusion-based Realistic Emotional Audio-driven Method for Single Image ...
+https://youtu.be/ARpkVPjb57M,EM Distillation for One-step Diffusion Models
+https://youtu.be/8wf0eH9kuhs,Hydragen: High-Throughput LLM Inference with Shared Prefixes
+https://youtu.be/SsXuse36mL4,KoLA: Carefully Benchmarking World Knowledge of Large Language Models
+https://youtu.be/utjbhPnddBg,[QA] Advantage Alignment Algorithms
+https://youtu.be/0duOfvYw4J8,[short] Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models
+https://youtu.be/MdsYqZLIjEU,[short] GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection
+https://youtu.be/1Z2sHROq7yM,Deep Language Networks: Joint Prompt Training of Stacked LLMs using Variational Inference
+https://youtu.be/u1PNUU0Ql3Q,Towards a Theoretical Understanding of the `Reversal Curse&#39; via Training Dynamics
+https://youtu.be/LSPO7gKdRVM,JetMoE: Reaching Llama2 Performance with 0.1M Dollars
+https://youtu.be/fda_wMpRP7U,LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding
+https://youtu.be/20uQ-csEmZo,Implicit In-context Learning
+https://youtu.be/izItRSTf9fs,Premise Order Matters in Reasoning with Large Language Models
+https://youtu.be/Tk5AxMGsKsI,[QA] Best Practices and Lessons Learned on Synthetic Data for Language Models
+https://youtu.be/a9H5eb4y9_c,[QA] ReFT: Representation Finetuning for Language Models
+https://youtu.be/KazKtXi4jSM,PROMETHEUS 2: An Open Source Language Model Specialized in Evaluating Other Language Models
+https://youtu.be/_1gijzLTGsg,AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent
+https://youtu.be/lQehzXAQ0AQ,[short] ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment
+https://youtu.be/oAaHlR8OYwo,Guiding a Diffusion Model with a Bad Version of Itself
+https://youtu.be/1k_2Kgm45oY,[QA] The Illusion of State in State-Space Models
+https://youtu.be/WHvmz1e0B6o,[QA] Transformer FAM: Feedback attention is working memory
+https://youtu.be/tjk9M04eM6o,[short] AIOS: LLM Agent Operating System
+https://youtu.be/WWsmxrnyLKc,An Image is Worth More Than 1616 Patches: Exploring Transformers on Individual Pixels
+https://youtu.be/6Z8S4nynH5w,The Illusion of State in State-Space Models
+https://youtu.be/Ph4-m0hFsvU,Why Warmup the Learning Rate? Underlying Mechanisms and Improvements
+https://youtu.be/5sQuhhFha78,Kernel Language Entropy: Fine-grained Uncertainty Quantification for LLMs from Semantic Similarities
+https://youtu.be/1fwHcJI8A80,BioMedLM: A 2.7B Parameter Language Model Trained On Biomedical Text
+https://youtu.be/ZX0bUp8vpYE,Language models are weak learners
+https://youtu.be/5MZPRjxGD3U,Pre-training Small Base LMs with Fewer Tokens
+https://youtu.be/7w9Bp-SAEHQ,An Empirical Study of Mamba-based Language Models
+https://youtu.be/SWGCAR4xQJs,[short] Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training
+https://youtu.be/vc-UbhcPbYQ,Replacing Judges with Juries: Evaluating LLM Generations with a Panel of Diverse Models
+https://youtu.be/KUQ8PB9H308,[QA] No “Zero-Shot” Without Exponential Data
+https://youtu.be/yyfclWSUKUY,Detoxifying Large Language Models via Knowledge Editing
+https://youtu.be/R3SFQK_TUy8,[QA] Make Your LLM Fully Utilize the Context
+https://youtu.be/6cvOeGk9QYg,Keeping LLMs Aligned After Fine-tuning: The Crucial Role of Prompt Templates
+https://youtu.be/G96LTJVtOD8,[QA] StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Generation
+https://youtu.be/OO3KnCWymWE,Explaining Explainability: Understanding Concept Activation Vectors
+https://youtu.be/8ROOXNIwSNM,[QA] An Image is Worth More Than 1616 Patches: Exploring Transformers on Individual Pixels
+https://youtu.be/Uu7zqnxtwNA,[QA] Retrieval Head Mechanistically Explains Long-Context Factuality
+https://youtu.be/zYrBBwd4MhY,[short] From GPT-4 to Gemini and Beyond.
+https://youtu.be/ZxB0qZoOxCQ,[QA] LLoCO: Learning Long Contexts Offline
+https://youtu.be/-bBJp0cBVzo,[QA] AUTOCRAWLER : A Progressive Understanding Web Agent for Web Crawler Generation
+https://youtu.be/VsHZsGX6ytM,RLHF Workflow: From Reward Modeling to Online RLHF
+https://youtu.be/OFITBTYXvF4,[QA] Kangaroo: Lossless Self-Speculative Decoding via Double Early Exiting
+https://youtu.be/0tb1ZUtp_IA,[short] LLM Agent Operating System
+https://youtu.be/UkUh8T4ISQc,Tandem Transformers for Inference Efficient LLMs
+https://youtu.be/XB9YDWt5fdM,[QA] Large Language Models Must Be Taught to Know What They Don&#39;t Know
+https://youtu.be/FLpvGC4GD6w,[QA] Is Flash Attention Stable?
+https://youtu.be/DP5irrmMgfc,[QA] RecurrentGemma: Moving Past Transformers for Efficient Open Language Models
+https://youtu.be/jDv17Ma7LgU,[QA] Are Long-LLMs A Necessity For Long-Context Tasks?
+https://youtu.be/Il52qEpofyg,Data Mixing Laws: Optimizing Data Mixtures by Predicting Language Modeling Performance
+https://youtu.be/Sk3ndIC8ms4,[QA] Memory Mosaics
+https://youtu.be/_UFZB_mh6sI,AdvPrompter: Fast Adaptive Adversarial Prompting for LLMs
+https://youtu.be/DUlhq7OPp8k,Self-Evaluation Improves Selective Generation in Large Language Models
+https://youtu.be/KqnZvg9RNHo,Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research
+https://youtu.be/LxapCezpgIE,[QA] Adapting LLaMA Decoder to Vision Transformer
+https://youtu.be/N8e3lcBixOE,Distilling Diffusion Models into Conditional GANs
+https://youtu.be/sURn1C1cEP0,Evaluating LLMs at Detecting Errors in LLM Responses
+https://youtu.be/wpb34x1dwek,[short] DoRA: Weight-Decomposed Low-Rank Adaptation
+https://youtu.be/GReHtCp2EYM,[QA] Capabilities of Gemini Models in Medicine
+https://youtu.be/ww4SAXmUwlE,Many-Shot In-Context Learning
+https://youtu.be/2iliakqUQfg,Probing the 3D Awareness of Visual Foundation Models
+https://youtu.be/uWRwbl-CuCk,Phased Consistency Model
+https://youtu.be/BrqqBk1gNxI,Linear Attention Sequence Parallelism
+https://youtu.be/UvWNNeBrZho,[QA] Do Language Models Plan for Future Tokens?
+https://youtu.be/eLTGenAfvZs,Energy-based Hopfield Boosting for Out-of-Distribution Detection
+https://youtu.be/BSqMgS1bN74,Perplexed by Perplexity: Perplexity-Based Data Pruning With Small Reference Models
+https://youtu.be/9g1D_V6K6xs,WILDCHAT: 1M ChatGPT Interaction Logs in the Wild
+https://youtu.be/aHph2p7Mx00,Nearest Neighbor Speculative Decoding for LLM Generation and Attribution
+https://youtu.be/erc6bkojqlA,Mitigating LLM Hallucinations via Conformal Abstention
+https://youtu.be/vs-jz93Zktc,FOLLOWIR: Evaluating and Teaching Information Retrieval Models to Follow Instructions
+https://youtu.be/O77abFFxk_Q,sDPO: Don&#39;t Use Your Data All at Once
+https://youtu.be/AF8kJE6my38,Kangaroo: Lossless Self-Speculative Decoding via Double Early Exiting
+https://youtu.be/cNKyjpn5tp4,Show, Don&#39;t Tell: Aligning Language Models with Demonstrated Feedback
+https://youtu.be/azX-9ow4OO8,Language Models as Compilers: Simulating Pseudocode Execution Improves Algorithmic Reasoning in LLMs
+https://youtu.be/-OUCOeCCYkg,MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue ReSolution
+https://youtu.be/uzxd7WUuWVM,Advancing LLM Reasoning Generalists with Preference Trees
+https://youtu.be/QB7Snna2M2k,ImageInWords: Unlocking Hyper-Detailed Image Descriptions
+https://youtu.be/ULF2JjPSSmY,[QA] LVLM-Intrepret: An Interpretability Tool for Large Vision-Language Models
+https://youtu.be/-LeXUzG50fc,Progressive Knowledge Distillation of Stable Diffusion XL using Layer Level Loss
+https://youtu.be/zpqBiNV9XWE,A Tale of Tails: Model Collapse as a Change of Scaling Laws
+https://youtu.be/D024vdcEjqs,Tweets to Citations: Unveiling the Impact of Social Media Influencers on AI Research Visibility
+https://youtu.be/YxYMdAfC0fg,How Far Can Transformers Reason? The Locality Barrier and Inductive Scratchpad
+https://youtu.be/-tZqo9aXaEU,Self-playing Adversarial Language Game Enhances LLM Reasoning
+https://youtu.be/U8FcEeSb_vg,aMUSEd: An open MUSE reproduction
+https://youtu.be/Sr1NIeSIiNw,Improving Alignment and Robustness with Short Circuiting
+https://youtu.be/XQpRO5JUmNs,[QA] AdvPrompter: Fast Adaptive Adversarial Prompting for LLMs
+https://youtu.be/BYZ7H9JR9mU,LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning
+https://youtu.be/1TMQuLKGXZY,[QA] Transcendence: Generative Models Can Outperform The Experts That Train Them
+https://youtu.be/GjNMvsGafmA,Bootstrapping Language Models with DPO Implicit Rewards
+https://youtu.be/jNjt-89xIHA,[QA] Reducing hallucination in structured outputs via Retrieval-Augmented Generation
+https://youtu.be/TdLWu3oJHNY,LITA: Language Instructed Temporal-Localization Assistant
+https://youtu.be/a7jDgcKVDyo,[short] Alignment Studio: Aligning Large Language Models to Particular Contextual Regulations
+https://youtu.be/fA5fRb8t3vk,[QA] Beyond Human Translation: Harnessing Multi-Agent Collaboration for Translating Ultra-Long Texts
+https://youtu.be/Ctnw9v2947Y,AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn
+https://youtu.be/OBSdJZjjfLI,[QA] Not All Language Model Features Are Linear
+https://youtu.be/dU6eiWjJfSw,Verbalized Machine Learning: Revisiting Machine Learning with Language Models
+https://youtu.be/4re4_OcM5yQ,Linearizing Large Language Models
+https://youtu.be/Q3rVw_HaDD0,What Are the Odds? Language Models Are Capable of Probabilistic Reasoning
+https://youtu.be/92JVslZl8oA,[short] Design2Code: How Far Are We From Automating Front-End Engineering?
+https://youtu.be/EAgf372qyVc,[QA] Transformers Can Do Arithmetic with the Right Embeddings
+https://youtu.be/_GAZtZ8QB4k,Mind Eye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data
+https://youtu.be/-PoKAflTuzI,[QA] Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers?
+https://youtu.be/t5Nql5d2dMY,Many-Shot In-Context Learning in Multimodal Foundation Models
+https://youtu.be/BSegzPopFgg,[short] Towards Conversational Diagnostic AI
+https://youtu.be/ScJY1nBl0nM,Iterative Reasoning Preference Optimization
+https://youtu.be/2Y7PZx7wmBA,Towards Reliable Latent Knowledge Estimation in LLMs
+https://youtu.be/8xTULcgJVjM,Why is SAM Robust to Label Noise?
+https://youtu.be/S3tRLBP0wC0,[short] Think Big, Generate Quick: LLM-to-SLM for Fast Autoregressive Decoding
+https://youtu.be/SXybCYrh9fc,[QA] ReALM: Reference Resolution As Language Modeling
+https://youtu.be/7wF9RMGno28,State Soup: In-Context Skill Learning, Retrieval and Mixing
+https://youtu.be/eSld2AkT3iI,Beyond Model Collapse: Scaling Up with Synthesized Data Requires Reinforcement
+https://youtu.be/-KCdlJARChY,[QA] Compression Represents Intelligence Linearly
+https://youtu.be/ifVK53yWfuY,[QA] Implicit In-context Learning
+https://youtu.be/VJcycDW6LwY,Consistency Models Made Easy
+https://youtu.be/YcCRR1R_ETs,[short] Synthetic Data (Almost) from Scratch: Generalized Instruction Tuning for Language Models
+https://youtu.be/0cZsciNoSDU,ControlNet: Improving Conditional Controls with Efficient Consistency Feedback
+https://youtu.be/fv8sgcn3VxM,Learning to grok: Emergence of in-context learning and skill in modular arithmetic tasks
+https://youtu.be/EWTLin1kudk,[short] ReFT: Representation Finetuning for Language Models
+https://youtu.be/DzwcA_Qdfys,[short] MoE-LLaVA: Mixture of Experts for Large Vision-Language Models
+https://youtu.be/M108PKD_xeY,Autoregressive Image Generation without Vector Quantization
+https://youtu.be/qYjS1vmWEMA,Talking Nonsense: Probing Large Language Models&#39; Understanding ofAdversarial Gibberish Inputs
+https://youtu.be/vYv0A9R5dCM,[short] In Search of Needles in a 10M Haystack: Recurrent Memory Finds What LLMs Miss
+https://youtu.be/p22tfqx5QDg,[QA] The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions
+https://youtu.be/ebMIuOSGO0Q,ChatGLM-Math: Improving Math Problem-Solving in Large Language Models with a Self-Critique Pipeline
+https://youtu.be/WCE2yzHS3wA,[QA] Toward Self-Improvement of LLMs via Imagination, Searching, and Criticizing
+https://youtu.be/GhDEJiDlfns,RewardBench: Evaluating Reward Models for Language Modeling
+https://youtu.be/OpC-MF8Yil8,[short] Efficient Exploration for LLMs
+https://youtu.be/zWQ1v3XJRQo,[QA] SnapKV: LLM Knows What You are Looking for Before Generation
+https://youtu.be/C4DU6tPRvu8,Attention-Driven Training-Free Efficiency Enhancement of Diffusion Models
+https://youtu.be/_UMxQWDLTc0,AI and Memory Wall
+https://youtu.be/JrHelQtmsS4,[short] Same Task, More Tokens: the Impact of Input on the Reasoning Performance of LLMs
+https://youtu.be/_zgOvae-ccY,Preference Fine-Tuning of LLMs Should Leverage Suboptimal, On-Policy Data
+https://youtu.be/h_cWMRObP-U,[short] Instruct-Imagen: Image Generation with Multi-modal Instruction
+https://youtu.be/isPb0wempFs,Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition
+https://youtu.be/13XMtkpk_Mc,Tango 2: Aligning Diffusion-based Text-to-Audio Generations through Direct Preference Optimization
+https://youtu.be/jyJi4fyTOuE,[QA] Reducing Transformer Key-Value Cache Size with Cross-Layer Attention
+https://youtu.be/7fFbb72wjD8,[QA] Zero-Shot Tokenizer Transfer
+https://youtu.be/u8Cg07NxELM,[QA] DPO Meets PPO: Reinforced Token Optimization for RLHF
+https://youtu.be/z4qOeJoUhJE,A Unified Framework for Model Editing
+https://youtu.be/euGHInsJPQE,RecurrentGemma: Moving Past Transformers for Efficient Open Language Models
+https://youtu.be/nKfzpMgpQx0,[QA] Explaining Explainability: Understanding Concept Activation Vectors
+https://youtu.be/XvthFEp_nt8,What makes unlearning hard and what to do about it
+https://youtu.be/NWJ8_2IjY2M,[short] Transformers are Multi-State RNNs
+https://youtu.be/YcSrfNRVaQo,[QA] Phased Consistency Model
+https://youtu.be/kZhm5QY-eGo,Lessons from the Trenches on Reproducible Evaluation of Language Models
+https://youtu.be/JneQuVVj2xc,[QA] Contextual Position Encoding: Learning to Count What&#39;s Important
+https://youtu.be/wXuofTMOaLg,[QA] Studying Large Language Model Behaviors Under Realistic Knowledge Conflicts
+https://youtu.be/WjIAmXuBrAE,Training Data Attribution via Approximate Unrolled Differentation
+https://youtu.be/WX03_R4bK88,A comparison of Human, GPT-3.5, and GPT-4 Performance in a University-Level Coding Course
+https://youtu.be/1k1Wt3lpqfA,In deep reinforcement learning, a pruned network is a good network
+https://youtu.be/4pJy1BhlrGI,[short] Arrows of Time for Large Language Models
+https://youtu.be/Iu5fmTuyFww,Scaling Laws and Compute-Optimal Training Beyond Fixed Training Durations
+https://youtu.be/ynRZvAweW2M,[short] ChatMusician: Understanding and Generating Music Intrinsically with LLM
+https://youtu.be/AyzUyQYEdyQ,[QA] RHO-1: Not All Tokens Are What You Need
+https://youtu.be/kV-oUpk4P0M,MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions
+https://youtu.be/bifcYS8Mvqk,[QA] MoRA: High-Rank Updating for Parameter-Efficient Fine-Tuning
+https://youtu.be/j3thFoo5Yh8,[QA] Preference Fine-Tuning of LLMs Should Leverage Suboptimal, On-Policy Data
+https://youtu.be/IEOv26TCS6g,[QA] A Careful Examination of Large Language Model Performance on Grade School Arithmetic
+https://youtu.be/87bxLVy0qSw,[QA] Guiding a Diffusion Model with a Bad Version of Itself
+https://youtu.be/Z6MSSU4U-wM,[short] Multimodal Pathway: Improve Transformers with Irrelevant Data from Other Modalities
+https://youtu.be/v7xjiafwLF0,[QA] Information Leakage from Embedding in Large Language Models
+https://youtu.be/ELFkIGxjoJo,Thermodynamic Natural Gradient Descent
+https://youtu.be/YERuE81btJY,[QA] AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent
+https://youtu.be/UFCIByd9uhw,[QA] Replacing Judges with Juries: Evaluating LLM Generations with a Panel of Diverse Models
+https://youtu.be/d05AgeaOSjQ,[QA] JetMoE: Reaching Llama2 Performance with 0.1M Dollars
+https://youtu.be/PbECObEkCpM,[QA] Improving Alignment and Robustness with Short Circuiting
+https://youtu.be/IzYf5UsnKtY,[QA] Instruction Pre-Training: Language Models are Supervised Multitask Learners
+https://youtu.be/cj05AggcyLY,LLoCO: Learning Long Contexts Offline
+https://youtu.be/9tCnXgyhX2A,Do LLMs dream of elephants (when told not to)?
+https://youtu.be/tacQbQboWq0,Poser: Unmasking Alignment Faking LLMs by Manipulating Their Internals
+https://youtu.be/E9AUcbN7Ljk,[QA] The Curse of Diversity in Ensemble-Based Exploration
+https://youtu.be/gZYt3F3Aw-E,Custom Gradient Estimators are Straight-Through Estimators in Disguise
+https://youtu.be/U4gRVnRRlL0,A Careful Examination of Large Language Model Performance on Grade School Arithmetic
+https://youtu.be/CLTie8O0y94,[short] Nash Learning from Human Feedback
+https://youtu.be/Llf6TKyQw5k,[QA] AI and the Problem of Knowledge Collapse
+https://youtu.be/xtCjwRxeDIU,(Perhaps) Beyond Human Translation: Multi-Agent Collaboration for Translating Ultra-Long Texts
+https://youtu.be/I0G1fFdAgpk,Fewer Truncations Improve Language Modeling
+https://youtu.be/ZjyLr_3Z8bI,Reducing hallucination in structured outputs via Retrieval-Augmented Generation
+https://youtu.be/t-vnrD8o6TA,Why Has Predicting Downstream Capabilities of Frontier AI Models with Scale Remained Elusive?
+https://youtu.be/LQyT1RvfsQU,[QA] Layer-Condensed KV Cache for Efficient Inference of Large Language Models
+https://youtu.be/AMRC7T5-4rI,Glimmer: generalized late-interaction memory reranker
+https://youtu.be/r3pSk3ePg68,[QA] Is In-Context Learning Sufficient for Instruction Following in LLMs?
+https://youtu.be/VrMGTrGoKjk,[QA] Estimating the Hallucination Rate of Generative AI
+https://youtu.be/nFAYzIRCJeM,Is ChatGPT Transforming Academics&#39; Writing Style?
+https://youtu.be/JsFrSICOuBM,[QA] What If We Recaption Billions of Web Images with LLaMA-3?
+https://youtu.be/BNPG8uQiGNQ,Chinchilla Scaling: A replication attempt
+https://youtu.be/XYtKBeyPVGs,Do Language Models Plan for Future Tokens?
+https://youtu.be/DNGpuHY0fXk,[short] BioMedLM: A 2.7B Parameter Language Model Trained On Biomedical Text
+https://youtu.be/7Ti1G4CXB2A,LVLM-Intrepret: An Interpretability Tool for Large Vision-Language Models
+https://youtu.be/R6qjV03M-AE,[QA] Many-Shot In-Context Learning in Multimodal Foundation Models
+https://youtu.be/1ndw2JyX0Hk,Self-Exploring Language Models: Active Preference Elicitation for Online Alignment
+https://youtu.be/I8cQc7tNnm8,[QA] Multi-Head Mixture-of-Experts
+https://youtu.be/7CDbHKx8aoQ,[QA] Autoregressive Image Generation without Vector Quantization
+https://youtu.be/tAUN3kDeWSI,[QA] Adversarial Attacks on Multimodal Agents
+https://youtu.be/DsAN_a01ptU,Does your data spark joy? Performance gains from domain upsampling at the end of training
+https://youtu.be/qj4I2_f3jsg,[short] Exploiting Novel GPT-4 APIs
+https://youtu.be/iOvYGvHp_0s,Can Language Models Solve Olympiad Programming?
+https://youtu.be/MsN1pNEgnV4,[QA] What Are the Odds? Language Models Are Capable of Probabilistic Reasoning
+https://youtu.be/ftFTh0pLxKE,Measuring memorization in RLHF for code completion
+https://youtu.be/CqsDFb3ScOc,Choice of PEFT Technique in Continual Learning: Prompt Tuning is Not All You Need
+https://youtu.be/kq99Kvp388E,[QA] An Empirical Study of Mamba-based Language Models
+https://youtu.be/MmgGH_DBzB8,[QA] Large Language Models Can Self-Improve At Web Agent Tasks
+https://youtu.be/YDG7MN2Pvs0,Can Long-Context Language Models Subsume Retrieval, RAG, SQL, and More?
+https://youtu.be/X6V1YgpUwBI,COSY: Evaluating Textual Explanations of Neurons
+https://youtu.be/aelkCijNEiE,[QA] Perplexed by Perplexity: Perplexity-Based Data Pruning With Small Reference Models
+https://youtu.be/NgOFQYliodo,RL on Incorrect Synthetic Data Scales the Efficiency of LLM Math Reasoning by Eight-Fold
+https://youtu.be/P69OiNWWyfo,[QA] Show, Don&#39;t Tell: Aligning Language Models with Demonstrated Feedback
+https://youtu.be/E5cHAdosm1A,Artificial Artificial Intelligence: Crowd Workers Use Large Language Models for Text Production Task
+https://youtu.be/ste3gaPTCtY,[QA] Stylus: Automatic Adapter Selection for Diffusion Models
+https://youtu.be/ckUqEx2MRPM,[short] Rephrasing the Web: A Recipe for Compute and Data-Efficient Language Modeling
+https://youtu.be/8XjCnX1y4lA,JINA CLIP: Your CLIP Model Is Also Your Text Retriever
+https://youtu.be/LqSMiF17IRg,[QA] Self-Exploring Language Models: Active Preference Elicitation for Online Alignment
+https://youtu.be/4qmHMN8cr0w,Ad Auctions for LLMs via Retrieval Augmented Generation
+https://youtu.be/5moRMkAiv3M,[QA] Reka Core, Flash, and Edge: A Series of Powerful Multimodal Language Models
+https://youtu.be/_NEwyEXItZQ,[QA] Learn Your Reference Model for Real Good Alignment
+https://youtu.be/t_1t3_nuhCA,Refusal in Language Models Is Mediated by a Single Direction
+https://youtu.be/dh_uisl9dgc,Social Choice for Al Alignment: Dealing with Diverse Human Feedback
+https://youtu.be/HEuKfH2HiLM,[QA] Improving Transformers using Faithful Positional Encoding
+https://youtu.be/a8yCq42IdI8,[QA] Why Warmup the Learning Rate? Underlying Mechanisms and Improvements
+https://youtu.be/INptdR9tals,[QA] SAMBA: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling
+https://youtu.be/BlNu8VK7zpc,[short] Toward Self-Improvement of LLMs via Imagination, Searching, and Criticizing
+https://youtu.be/WPcNHYWS344,Unpacking DPO and PPO: Disentangling Best Practices for Learning from Preference Feedback
+https://youtu.be/ESS2G2ZMxlI,[QA] EM Distillation for One-step Diffusion Models
+https://youtu.be/oe9_1xivPRY,[short] Hydragen: High-Throughput LLM Inference with Shared Prefixes
+https://youtu.be/ItsTzk6Q2n8,[QA] ImageInWords: Unlocking Hyper-Detailed Image Descriptions
+https://youtu.be/l4KS9o2yXGo,Stronger Random Baselines for In-Context Learning
+https://youtu.be/mTpEOezbmag,[short] Do Language Models Plan for Future Tokens?
+https://youtu.be/lNLnMlNg8m4,[QA] RULER: What&#39;s the Real Context Size of Your Long-Context Language Models?
+https://youtu.be/5nYGHpnMx58,[QA] Can Go AIs be adversarially robust?
+https://youtu.be/RVCvTeXo_8o,[QA] COSY: Evaluating Textual Explanations of Neurons
+https://youtu.be/7Q2Lb-psXTo,[QA] JINA CLIP: Your CLIP Model Is Also Your Text Retriever
+https://youtu.be/oCHbJbrRy6o,[QA] How Far Can Transformers Reason? The Locality Barrier and Inductive Scratchpad
+https://youtu.be/Jv0v-xUQ2y0,[QA] Adam-mini: Use Fewer Learning Rates To Gain More
+https://youtu.be/QxcAVF6wq6M,Learning to Play Atari in a World of Tokens
+https://youtu.be/lq88x_YVGIg,On the Origin of Llamas: Model Tree Heritage Recovery
+https://youtu.be/eaFZI28DW_Y,[QA] Why Has Predicting Downstream Capabilities of Frontier AI Models with Scale Remained Elusive?
+https://youtu.be/vIxPKJcCNTo,[QA] Arctic-Embed: Scalable, Efficient, and Accurate Text Embedding Models
+https://youtu.be/kYDk3T7Ug1Q,[QA] State Soup: In-Context Skill Learning, Retrieval and Mixing
+https://youtu.be/Q5XKb1o1DgY,[QA] Large Language Models are Interpretable Learners
+https://youtu.be/VYcUsjTVy28,[QA] Verbalized Machine Learning: Revisiting Machine Learning with Language Models
+https://youtu.be/QSgW9CTFL68,[short] A Unified Framework for Model Editing
+https://youtu.be/Pr5cBsfiPao,[QA] Learning to grok: Emergence of in-context learning and skill in modular arithmetic tasks
+https://youtu.be/duUUyPQulCk,[short] Stop Regressing: Training Value Functions via Classification for Scalable Deep RL
+https://youtu.be/JuXvw52QpEo,[QA] Ad Auctions for LLMs via Retrieval Augmented Generation
+https://youtu.be/SeHcu4aYMbA,[QA] Can Long-Context Language Models Subsume Retrieval, RAG, SQL, and More?
+https://youtu.be/y1u023Jue4Y,[QA] Semantic Entropy Probes: Robust and Cheap Hallucination Detection in LLMs
+https://youtu.be/mhvDLY-NG9o,Instruction Pre-Training: Language Models are Supervised Multitask Learners
+https://youtu.be/G96ol7VPhxc,[QA] Dynamic Typography: Bringing Text to Life via Video Diffusion Prior
+https://youtu.be/OyrXZdAOM54,The Brain&#39;s Bitter Lesson: Scaling Speech Decoding With Self-Supervised Learning
+https://youtu.be/34ydRfo9Z_M,[QA] How Truncating Weights Improves Reasoning in Language Models
+https://youtu.be/T3tonLXqoy8,Adversarial Attacks on Multimodal Agents
+https://youtu.be/3DH2rChyqok,[short] Rethinking Patch Dependence for Masked Autoencoders
+https://youtu.be/xEW4YMEI7aY,[short] ChatGLM-Math: Improving Math Problem-Solving in LLMs with a Self-Critique Pipeline
+https://youtu.be/ZehYF-SO20Q,[QA] Evaluating Numerical Reasoning in Text-to-Image Models
+https://youtu.be/_ukciJ7eWX0,[QA] Unpacking DPO and PPO: Disentangling Best Practices for Learning from Preference Feedback
+https://youtu.be/D7jOZMtuVMI,[QA] Learning to Play Atari in a World of Tokens
+https://youtu.be/72pz_rUAUGE,[QA] Consistency Models Made Easy
+https://youtu.be/SSuFpDXxO7M,[QA] Do LLMs dream of elephants (when told not to)?
+https://youtu.be/jCFyvSPgEXs,The Remarkable Robustness of LLMs: Stages of Inference?
+https://youtu.be/7A9O147xUEs,[QA] REVISION MATTERS: Generative Design Guided by Revision Edits
+https://youtu.be/dW3YD21Yae8,Data curation via joint example selection further accelerates multimodal learning
+https://youtu.be/MWssgtTx2Mg,REVISION MATTERS: Generative Design Guided by Revision Edits
+https://youtu.be/ZLn7GSWGnAs,[QA] Recite, Reconstruct, Recollect: Memorization in LMs as a Multifaceted Phenomenon
+https://youtu.be/STsrasaj-gU,[QA] The Remarkable Robustness of LLMs: Stages of Inference?
+https://youtu.be/ZNL1Kfhhht0,Recite, Reconstruct, Recollect: Memorization in LMs as a Multifaceted Phenomenon
+https://youtu.be/mfJpjk8dsck,[QA] Data curation via joint example selection further accelerates multimodal learning
+https://youtu.be/PdIO9Mv40Do,MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation
+https://youtu.be/ioluc3gWmgw,[QA] Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention
+https://youtu.be/Pxx_euJiA0U,What If We Recaption Billions of Web Images with LLaMA-3?
+https://youtu.be/jqMiwclToGg,Extending Context Window of Large Language Models via Position Interpolation
+https://youtu.be/p4xASJOb5Rg,DeepSeek-Prover: Advancing Theorem Proving in LLMs through Large-Scale Synthetic Data
+https://youtu.be/inUO_3DMjrI,AudioPaLM: A Large Language Model That Can Speak and Listen
+https://youtu.be/QB5cSqrESlE,MM1: Methods, Analysis &amp; Insights from Multimodal LLM Pre-training
+https://youtu.be/G0oDesSIHAQ,Stealing Part of a Production Language Model
+https://youtu.be/3vNA5MenWto,CodeFusion: A Pre-trained Diffusion Model for Code Generation
+https://youtu.be/v1TH8uq2SuU,Using Large Language Models for Hyperparameter Optimization
+https://youtu.be/8UvYm9HAQUQ,More Agents Is All You Need
+https://youtu.be/TkZBg3mKsIo,Zephyr: Direct Distillation of LM Alignment
+https://youtu.be/utXlwYBUgn4,ChatQA: Building GPT-4 Level Conversational QA Models
+https://youtu.be/_x_VFKczPDc,Branch-Train-MiX: Mixing Expert LLMs into a Mixture-of-Experts LLM
+https://youtu.be/NmE7nbfFU6g,I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models
+https://youtu.be/7nNIekIazUk,ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment
+https://youtu.be/g-g5TgY8zS0,How to Train Data-Efficient LLMs
+https://youtu.be/MuNrhKF0YBs,INTERS: Unlocking the Power of Large Language Models in Search with Instruction Tuning
+https://youtu.be/HtYRY58FC5M,PoSE: Efficient Context Window Extension of LLMs via Positional Skip-wise Training
+https://youtu.be/vx28NB1KzNY,[short] AutoDev: Automated AI-Driven Development
+https://youtu.be/y57_rByl_-0,[short] More Agents Is All You Need
+https://youtu.be/44ZTIQHWwMM,Efficient Monotonic Multihead Attention
+https://youtu.be/2nc8vC_g7mM,Rethinking FID: Towards a Better Evaluation Metric for Image Generation
+https://youtu.be/HAu9nrJyL8U,[short] MEDUSA: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads
+https://youtu.be/jwbZo5YqFY0,Vision-Language Models as a Source of Rewards
+https://youtu.be/17SQs1dyKfE,[QA] Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?
+https://youtu.be/jzk50zG4pk8,Lifelong Benchmarks: Efficient Model Evaluation in an Era of Rapid Progress
+https://youtu.be/IbmFMZdVx74,Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference
+https://youtu.be/-G4JpVHPhJA,[short] LoRAMoE: Revolutionizing Mixture of Experts for Maintaining World Knowledge in Language ...
+https://youtu.be/hpYY0FKcg6s,Manifold Preserving Guided Diffusion
+https://youtu.be/aoGNwAUDczg,[short] Repeat After Me:Transformers are Better than State Space Models at Copying
+https://youtu.be/Os5dhA9OTQE,Strategic Reasoning with Language Models
+https://youtu.be/hElP4EbU270,[QA] AlphaMath Almost Zero: process Supervision without process
+https://youtu.be/yf74OdWxPks,[short] Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding
+https://youtu.be/ufRGIrNhvcI,[QA] Mitigating LLM Hallucinations via Conformal Abstention
+https://youtu.be/yVtb6moCz00,[short] Specialized Language Models with Cheap Inference from Limited Domain Data
+https://youtu.be/AqcybWHhROc,Layer-Condensed KV Cache for Efficient Inference of Large Language Models
+https://youtu.be/6ZmzdcL_aVU,AI and the Problem of Knowledge Collapse
+https://youtu.be/McgQrMwB9b8,Do Transformer World Models Give Better Policy Gradients?
+https://youtu.be/yS5e5HGfHEs,Direct Language Model Alignment from Online AI Feedback
+https://youtu.be/lfllFjcbIpc,AutoEval Done Right: Using Synthetic Data for Model Evaluation
+https://youtu.be/OFW5GAfzQ3Y,[short] Neural Network Diffusion
+https://youtu.be/5Q-7plN3w0I,Scaling Laws for Fine-Grained Mixture of Experts
+https://youtu.be/PIBiOYHSws8,Asynchronous Local-SGD Training for Language Modeling
+https://youtu.be/0FsIAXcau5w,[short] Can Large Language Models Understand Context?
+https://youtu.be/I9hsVKUzUUQ,Frontier Language Models are not Robust to Adversarial Arithmetic
+https://youtu.be/BJiR9o_Veog,[short] G-LLaVA : Solving Geometric Problem with Multi-Modal Large Language Model
+https://youtu.be/bbavjrU-MvQ,RULER: What&#39;s the Real Context Size of Your Long-Context Language Models?
+https://youtu.be/PJ7ZjTBUvZ8,Adam-mini: Use Fewer Learning Rates To Gain More
+https://youtu.be/RMVl30T6Tpw,Language Models Can Reduce Asymmetry in Information Markets
+https://youtu.be/kM4w1VgXwYc,[QA] Attention as a Hypernetwork
+https://youtu.be/qbz8NxQzdGk,[QA] SUTRA: Scalable Multilingual Language Model Architecture
+https://youtu.be/GFxQb8lKQS4,Block Transformer: Global-to-Local Language Modeling for Fast Inference
+https://youtu.be/-30bihtRLo8,[short] Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking
+https://youtu.be/JZb9e-iXcJI,[short] Logits of API-Protected LLMs Leak Proprietary Information
+https://youtu.be/L19paNdGcOE,Is In-Context Learning Sufficient for Instruction Following in LLMs?
+https://youtu.be/ielZJwDfZL4,How Truncating Weights Improves Reasoning in Language Models
+https://youtu.be/-UNY-u1zsCY,Distributional Preference Alignment of LLMs via Optimal Transport
+https://youtu.be/1htxGErcXec,[short] Time is Encoded in the Weights of Finetuned Language Models
+https://youtu.be/T7q4IQLMpMo,[short] Video-LLaVA: Learning United Visual Representation by Alignment Before Projection
+https://youtu.be/4gzlC5WM55c,Localizing Paragraph Memorization in Language Models
+https://youtu.be/dDbinc_cvNY,[short] ChatQA: Building GPT-4 Level Conversational QA Models
+https://youtu.be/PP0pGvUlbG0,Stylus: Automatic Adapter Selection for Diffusion Models
+https://youtu.be/eJZr65Jc_nc,[short] ViTAR: Vision Transformer with Any Resolution
+https://youtu.be/s6_mPa86HPA,[QA] Linear Attention Sequence Parallelism
+https://youtu.be/brhlCRzKCUM,[QA] PiSSA: Principal Singular Values and Singular Vectors Adaptation of Large Language Models
+https://youtu.be/2X8G5MdV-9E,[QA] Kernel Language Entropy: Uncertainty Quantification for LLMs from Semantic Similarities
+https://youtu.be/7QUllHPgtys,Evaluating Numerical Reasoning in Text-to-Image Models
+https://youtu.be/8iTkGClNszI,[QA] Nearest Neighbor Speculative Decoding for LLM Generation and Attribution
+https://youtu.be/x8_xelswPQQ,MagicBrush : A Manually Annotated Dataset for Instruction-Guided Image Editing
+https://youtu.be/tdR7yfdFnDY,[short] Bad Students Make Great Teachers: Active Learning Accelerates Large-Scale Visual ...
+https://youtu.be/wsh9vb7Hlks,[QA] ControlNet: Improving Conditional Controls with Efficient Consistency Feedback
+https://youtu.be/A_fNWgBcbZc,Arctic-Embed: Scalable, Efficient, and Accurate Text Embedding Models
+https://youtu.be/aaf0qbbdS5I,[short] Larimar: Large Language Models with Episodic Memory Control
+https://youtu.be/Xhm671pNlig,[QA] Finding Visual Task Vectors
+https://youtu.be/EXe0Q-UWlvM,[QA] Revisiting Text-to-Image Evaluation with Gecko: On Metrics, Prompts, and Human Ratings
+https://youtu.be/OUXaDm0s9g4,On Limitations of the Transformer Architecture
+https://youtu.be/cLZxBu_qAOQ,Improving Text Embeddings with Large Language Models
+https://youtu.be/d8mwo8qosK8,GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection
+https://youtu.be/OCdy-mooGUQ,PaSS: Parallel Speculative Sampling
+https://youtu.be/C7aIIKIFOoQ,[QA] Mixture-of-Depths: Dynamically allocating compute in transformer-based language models
+https://youtu.be/Hme7USPdFyM,[short] Massive Activations in Large Language Models
+https://youtu.be/W_HoVi9vbpM,Neural Diffusion Models
+https://youtu.be/ulO2XfjngW0,[short] Mini-GPTs: Efficient Large Language Models through Contextual Pruning
+https://youtu.be/Uye4SD6P2F4,[short] SELF-DISCOVER: Large Language Models Self-Compose Reasoning Structures
+https://youtu.be/kwnG_1Z4Hyc,A Human-Inspired Reading Agent with Gist Memory of Very Long Contexts
+https://youtu.be/1whUKke8H_k,Design2Code: How Far Are We From Automating Front-End Engineering?
+https://youtu.be/Cmap5ZozwUk,Model Stock: All we need is just a few fine-tuned models
+https://youtu.be/DZSCx2DG7Hw,Backtracing: Retrieving the Cause of the Query
+https://youtu.be/Wdqns-gzqfc,[short] Self-playing Adversarial Language Game Enhances LLM Reasoning
+https://youtu.be/wLLAVwyJI3Y,The Curse of Diversity in Ensemble-Based Exploration
+https://youtu.be/4T7wyQ2WHHc,[short] Position Paper: Bayesian Deep Learning in the Age of Large-Scale AI
+https://youtu.be/lsZ2d363OkA,PiSSA: Principal Singular Values and Singular Vectors Adaptation of Large Language Models
+https://youtu.be/Nv8iV5kZdOA,[short] Watermarking Makes Language Models Radioactive
+https://youtu.be/81t_ObnQbx4,[QA] Many-Shot In-Context Learning
+https://youtu.be/-oEiejmnIzk,Language models scale reliably with over-training and on downstream tasks
+https://youtu.be/se_CBvHPOAw,[short] Progressive Knowledge Distillation of Stable Diffusion XL using Layer Level Loss
+https://youtu.be/f1-K70J2Pxk,[short] MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions
+https://youtu.be/pHOoPWZTPVU,[QA] Custom Gradient Estimators are Straight-Through Estimators in Disguise
+https://youtu.be/XQdSZF6viPc,[QA] The Brain&#39;s Bitter Lesson: Scaling Speech Decoding With Self-Supervised Learning
+https://youtu.be/fpO4PX30jjo,[QA] Lessons from the Trenches on Reproducible Evaluation of Language Models
+https://youtu.be/hsc9ggUTfws,[short] Bigger is not Always Better: Scaling Properties of Latent Diffusion Models
+https://youtu.be/VqxWp7f7U8c,[short] Scaling Laws for Fine-Grained Mixture of Experts
+https://youtu.be/GukmQzaFsqM,MoE-LLaVA: Mixture of Experts for Large Vision-Language Models
+https://youtu.be/qe186Xamhac,Estimating the Hallucination Rate of Generative AI
+https://youtu.be/-NvVXaRrx6Q,Long-form factuality in large language models
+https://youtu.be/_j2DkY3T-w4,AUTOCRAWLER : A Progressive Understanding Web Agent for Web Crawler Generation
+https://youtu.be/i_IgacKAeKg,[short] Gemini in Reasoning: Unveiling Commonsense in Multimodal Large Language Models
+https://youtu.be/zfOqb025Uuc,[short] LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders
+https://youtu.be/1AUzbxiGUrg,[short] Grandmaster-Level Chess Without Search
+https://youtu.be/mNr5gYsdmY4,[short] Long-context LLMs Struggle with Long In-context Learning
+https://youtu.be/GEZDBU1XJ_U,[short] SEQUOIA: Scalable, Robust, and Hardware-aware Speculative Decoding
+https://youtu.be/f5EOGtTHJTk,[QA] Bigger is not Always Better: Scaling Properties of Latent Diffusion Models
+https://youtu.be/WPboPwUI4fA,[QA] Beyond Model Collapse: Scaling Up with Synthesized Data Requires Reinforcement
+https://youtu.be/aT_aT0-ur_E,Blending Is All You Need: Cheaper, Better Alternative to Trillion-Parameters LLM
+https://youtu.be/YDmkjVNG1C4,Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models
+https://youtu.be/gz6v2eOSZTE,[short] Woodpecker: Hallucination Correction for Multimodal Large Language Models
+https://youtu.be/t9kj5OVanwo,DoRA: Weight-Decomposed Low-Rank Adaptation
+https://youtu.be/jFnRt_FHwZo,Video-LLaVA: Learning United Visual Representation by Alignment Before Projection
+https://youtu.be/UOR2pOUMUPE,Infinite-LLM: Efficient LLM Service for Long Context with DistAttention and Distributed KVCache
+https://youtu.be/vtVB4r47h2I,Time is Encoded in the Weights of Finetuned Language Models
+https://youtu.be/M5TGFKJqxh0,Relightable Gaussian Codec Avatars
+https://youtu.be/i0EcdQT8Pvw,Fast Inference from Transformers via Speculative Decoding
+https://youtu.be/wDD8vWVwLFQ,Striped Attention: Faster Ring Attention for Causal Transformers
+https://youtu.be/V5Q2To6hEr4,MambaByte: Token-free Selective State Space Model
+https://youtu.be/PeWuRTUwHLg,MEDUSA: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads
+https://youtu.be/w1xnGfFJ6kw,ChatMusician: Understanding and Generating Music Intrinsically with LLM
+https://youtu.be/nY0pbTfA1o8,The Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction
+https://youtu.be/pzlTv3Ss8Z8,Generative AI for Math: Part I MATHPILE: A Billion-Token-Scale Pretraining Corpus for Math
+https://youtu.be/QJMUg5Uvb74,Beyond Chinchilla-Optimal: Accounting for Inference in Language Model Scaling Laws
+https://youtu.be/Es8IGlwcK7M,DeepSpeed-FastGen: High-throughput Text Generation for LLMs via MII and DeepSpeed-Inference
+https://youtu.be/gsapl5fgod0,Transforming and Combining Rewards for Aligning Large Language Models
+https://youtu.be/9BXp7XWVaX0,Self-conditioned Image Generation via Generating Representations
+https://youtu.be/Fd1mol0hUYU,Uncertainty Estimation and Quantification for LLMs: A Simple Supervised Approach
+https://youtu.be/XA8BWfr4GlU,[short] Infinite-LLM: Efficient LLM Service for Long Context with Attention and Distributed KVCache
+https://youtu.be/WqTee3ZuXJw,Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models
+https://youtu.be/IMVw493CzOQ,Nash Learning from Human Feedback
+https://youtu.be/5qkBI-z7t54,[short] Concept Sliders: LoRA Adaptors for Precise Control in Diffusion Models
+https://youtu.be/c0N9ctnueMs,[short] Can AI Be as Creative as Humans?
+https://youtu.be/uoQd7iUvDZA,Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers?
+https://youtu.be/MwmEs6LclUo,[QA] LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning
+https://youtu.be/c4HDAFUAoW0,[short] Neural Diffusion Models
+https://youtu.be/jCINHUWg9eA,Feedback Loops With Language Models Drive In-Context Reward Hacking
+https://youtu.be/O7z9XkCxjGA,[short] Training Neural Networks is NP-Hard in Fixed Dimension
+https://youtu.be/N8ovZh6w-48,[QA] In-Context Learning with Long-Context Models: An In-Depth Exploration
+https://youtu.be/UiZteS4diU4,Helping or Herding? Reward Model Ensembles Mitigate but do not Eliminate Reward Hacking
+https://youtu.be/7FDO-t043cY,Bigger is not Always Better: Scaling Properties of Latent Diffusion Models
+https://youtu.be/bey2NF_Yfi4,[QA] RLHF Workflow: From Reward Modeling to Online RLHF
+https://youtu.be/vzXQG5Wdob0,Is Bigger Edit Batch Size Always Better? - An Empirical Study on Model Editing with Llama-3
+https://youtu.be/yQPXTzPseQw,[short] WEAVER: Foundation Models for Creative Writing
+https://youtu.be/bJWXw1kR6_U,[QA]  PROMETHEUS 2: An Open Source Language Model Specialized in Evaluating Other Language Models
+https://youtu.be/j9IbxOFogAM,[QA] Iterative Reasoning Preference Optimization
+https://youtu.be/-2CzpQvSLTA,[QA] Localizing Paragraph Memorization in Language Models
+https://youtu.be/-hJXVZSLj0w,[QA] Observational Scaling Laws and the Predictability of Language Model Performance
+https://youtu.be/v1AFchh-QE8,Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction
+https://youtu.be/JIauND9y0so,[QA] Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction
+https://youtu.be/UZ28PoVeRSQ,[QA] Found in the Middle: Calibrating Positional Attention Bias Improves Long Context Utilization
+https://youtu.be/AD6UDQcOyx0,Found in the Middle: Calibrating Positional Attention Bias Improves Long Context Utilization
+https://youtu.be/glyu_nQH0yw,Efficient Memory Management for Large Language Model Serving with PagedAttention
+https://youtu.be/NnU9D7WxZos,AIOS: LLM Agent Operating System
+https://youtu.be/DF3n8cNhYT4,Grandmaster-Level Chess Without Search
+https://youtu.be/676gSB4fBvc,Unlearnable Algorithms for In-context Learning
+https://youtu.be/HdfXDT_EvG8,MobileVLM: A Fast, Strong and Open Vision Language Assistant for Mobile Devices
+https://youtu.be/0c51bFXuEB8,[short] Soaring from 4K to 400K: Extending LLM&#39;s Context with Activation Beacon
+https://youtu.be/8Npc7-J0kNU,Self-Contrast: Better Reflection Through Inconsistent Solving Perspectives
+https://youtu.be/9ctYUhS6C3Q,HALO: An Ontology for Representing Hallucinations in Generative Models
+https://youtu.be/Y_qEXdNLn_U,[short] Chain of Code: Reasoning with a Language Model-Augmented Code Emulator
+https://youtu.be/P-pu5QUeXuc,[QA] Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study
+https://youtu.be/uM2ouTLe-C0,[QA] WILDCHAT: 1M ChatGPT Interaction Logs in the Wild
+https://youtu.be/cftIv4DKu1E,LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models
+https://youtu.be/b4kgVjinE3s,One-step Diffusion with Distribution Matching Distillation
+https://youtu.be/4O6KjvafJx4,OpenFlamingo: An Open-Source Framework for Training Large Autoregressive Vision-Language Models
+https://youtu.be/HzlVmqZOFBw,SODA: Bottleneck Diffusion Models for Representation Learning
+https://youtu.be/0xDjmdibrQU,[short] Supervised Knowledge Makes Large Language Models Better In-context Learners
+https://youtu.be/u7P_ySCsYM4,Training Chain-of-Thought via Latent-Variable Inference
+https://youtu.be/eyxd1y8--IQ,Human Alignment of Large Language Models throughOnline Preference Optimisation
+https://youtu.be/Euz54NiYSXA,Improving Transformers using Faithful Positional Encoding
+https://youtu.be/Z0PV5NbK11g,[short] REFT: Reasoning with REinforced Fine-Tuning
+https://youtu.be/BU5Xex7wcTw,[QA] Weak-to-Strong Extrapolation Expedites Alignment
+https://youtu.be/xfVcuOKz4FI,[short] Zero Bubble Pipeline Parallelism
+https://youtu.be/hkJvNm_nR0Q,[QA] Achieving 97% on GSM8K: Deeply Understanding the Problems Makes LLMs Perfect Reasoners
+https://youtu.be/CgJhhps_ht4,[short] Contrastive Preference Optimization: Pushing Boundaries of LLM Performance in Translation
+https://youtu.be/AfX-s4p8aBs,[short] Advancing LLM Reasoning Generalists with Preference Trees
+https://youtu.be/CS44vxbaJdQ,[QA] Linearizing Large Language Models
+https://youtu.be/-2YQXn06o1Y,T-Stitch: Accelerating Sampling in Pre-Trained DiffusionModels with Trajectory Stitching
+https://youtu.be/qHj-8SWuvy0,Mixtral of Experts
+https://youtu.be/Vnsyer0ASHo,AutoGluon-Multimodal (AutoMM): Supercharging Multimodal AutoML with Foundation Models
+https://youtu.be/uj_OLoVf8No,[short] VideoMamba: State Space Model for Efficient Video Understanding
+https://youtu.be/qsHqSfqt1EE,[short] The Illusion of State in State-Space Models
+https://youtu.be/Bm9tg2xj0cc,[short] Linear Attention Sequence Parallelism
+https://youtu.be/bXiXhxbqTVo,Object Recognition as Next Token Prediction
+https://youtu.be/aLnvp3GOHCM,[short] Chain-of-Thought Reasoning Without Prompting
+https://youtu.be/GRY67fr_y1s,[short] Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models
